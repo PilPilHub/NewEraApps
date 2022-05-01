@@ -26,8 +26,8 @@
       "applovin_interstitial_id2" : "bd060eb8aad0c08e",
       "applovin_interstitial_id3" : "bd060eb8aad0c08e",
       "applovin_interstitial_id4" : "106a5e84e1ca02d1",
-      "applovin_native_id1" : "",
-      "applovin_native_id2" : ""
+      "applovin_native_id1" : "19b446a95fb1f3c0",
+      "applovin_native_id2" : "19b446a95fb1f3c0"
     },
     "unity" : {
       "unity_app_id" : "1234567",
@@ -37,7 +37,7 @@
     },
     "mode_ads_banner" : "applovin",
     "mode_ads_interstitial" : "applovin",
-    "mode_ads_native_enabled" : false,
+    "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "",
     "mode_button_ads_action" : "",
     "update" : {
